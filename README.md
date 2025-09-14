@@ -59,8 +59,8 @@ A smart data science web application that predicts **health risks** based on rea
 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/air-quality-health-risk.git
-cd air-quality-health-risk
+git clone https://github.com/sarthakarsul18/Air-Quality-Health-Risk-Predictor
+cd Air-Quality-Health-Risk-Predictor
 ```
 2️⃣ Install Requirements
 
